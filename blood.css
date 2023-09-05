@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(241, 84, 84);
+}
+img{
+    size:auto;
+}
+p{
+    padding-left: 300px;
+}
+h2{
+    padding-left: 300px;
+}
+h3{
+    padding-left: 300px;
+}
+h4{
+    padding-left: 300px;
+
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .picture{
+    width: 200px;
+    height: 100px;
+   }
+   .img{
+    width: 200px;
+    height: 100px;
+   }
+.id1{
+    font-size: 56px;
+}
+h5{
+    width: 350px;
+    height: 500px;
+    border-radius: 100px;
+}
